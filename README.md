@@ -11,5 +11,12 @@ Linux installation -
 [2] - sudo yum install git - git clone https://github.com/MaxisOfAll/MultiOgar-Protection
 
 If you are just starting out use this -
-### Git clone https://github.com/Megabyte918/MultiOgar-Edited/
+- Git clone https://github.com/Megabyte918/MultiOgar-Edited/
+Then do *linux installation
 ```
+List of sites that are using this project as there protection now -
+- None
+- At
+- The moment
+
+If you are wishing to follow onto this project make a Pull request
